@@ -1,0 +1,32 @@
+# minimal theme for SLiM
+# njonaitis@gmail.com
+
+msg_color               #666666
+msg_font                Hack:size=9:Italic
+msg_x                   50%
+msg_y                   40%
+msg_shadow_xoffset 	1
+msg_shadow_yoffset 	1
+
+background_style        center 
+background_color        #222222
+
+input_panel_x           50%
+input_panel_y           80%
+input_name_x            195
+input_name_y            90
+input_font          	Noto Sans:size=10:Italic:Medium
+input_fgcolor           #ffffff
+input_color		#222222
+
+username_font          	Noto Sans:size=10:Italic:Medium
+username_color        	#666666
+username_x              125
+username_y              90
+password_x              125
+password_y              90
+
+username_msg            username:
+password_msg            password: 
+session_x		2000
+session_y		1100
