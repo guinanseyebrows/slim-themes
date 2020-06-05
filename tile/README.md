@@ -1,15 +1,12 @@
-SLiM-minimal
-============
+# tile
+someone set us up the bomb !!
 
-![screenshot](https://raw.github.com/njonaitis/slim-minimal/master/screenshot.png "Screenshot")
-
-This is another dark [SLiM] (Simple Login Manager) theme. It is based off of
-DevilX's [Splashy] and [Minimal-Tux] SLiM themes.
+![screenshot](https://raw.githubusercontent.com/guinanseyebrows/slim-themes/master/tile/preview.png "Screenshot")
 
 ## Installation
 Copy the theme files to this directory:
 
-    /usr/share/slim/themes/slim-minimal
+    /usr/share/slim/themes/tile
 
 Edit the SLiM configuration file and change the theme:
 
@@ -20,5 +17,3 @@ FYI: If you have a -really- long username, the text will "cut off". To fix this,
 
 
 [SLiM]: http://slim.berlios.de/
-[Splashy]: http://gnome-look.org/content/show.php/LinuxOsX+Splashy+Theme?content=72225
-[Minimal-Tux]: http://www.box-look.org/content/show.php/Minimal-Tux+SLiM+Theme?content=99148
